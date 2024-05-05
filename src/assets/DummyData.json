@@ -1,0 +1,56 @@
+[
+        {
+          "id": "1",
+          "title": "Barack Obama",
+          "author": "Barack Obama",
+          "price": "1",
+          "category": "Democrat",
+          "isFeatured": "true",
+          "img": "https://cdn.britannica.com/43/172743-138-545C299D/overview-Barack-Obama.jpg?w=800&h=450&c=crop"
+        },
+        {
+          "id": "2",
+          "title": "George Bush",
+          "author": "George Bush",
+          "price": "1",
+          "category": "Republican",
+          "isFeatured": "true",
+          "img": "https://cdn.britannica.com/42/172742-138-B0830C03/overview-George-W-Bush.jpg"
+        },
+        {
+          "id": "3",
+          "title": "Donald Trump",
+          "author": "Donald Trump",
+          "price": "21.99",
+          "category": "Republican",
+          "isFeatured": "true",
+          "img": "https://cdn.britannica.com/s:740x416,c:crop/31/149831-050-83A0E45B/Donald-J-Trump-2010.jpg"
+        },
+        {
+          "id": "4",
+          "title": "Bill Clinton",
+          "author": "Bill Clinton",
+          "price": "15.99",
+          "category": "Democrat",
+          "isFeatured": "true",
+          "img": "https://cdn.britannica.com/41/172741-138-647B3D53/overview-Bill-Clinton.jpg?w=900&h=508&c=crop"
+        },
+        {
+          "id": "5",
+          "title": "Ronald Regan",
+          "author": "Ronald Regan",
+          "price": "18.99",
+          "category": "Republican",
+          "isFeatured": "false",
+          "img": "https://cdn.britannica.com/38/172738-138-6C7550C8/overview-Ronald-Reagan.jpg"
+        },
+        {
+          "id": "6",
+          "title": "John F Kennedy",
+          "author": "John F Kennedy",
+          "price": "21.99",
+          "category": "Democrat",
+          "isFeatured": "false",
+          "img": "https://cdn.britannica.com/32/172732-138-941D1E2C/overview-John-F-Kennedy.jpg"
+        }
+      ]

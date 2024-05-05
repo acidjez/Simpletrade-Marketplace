@@ -1,0 +1,194 @@
+[
+    {
+        "date": "02/02/2023",
+        "title": "b obama",
+        "price": "$20",
+        "qty": "1" 
+    },
+    {
+        "date": "03/02/2023",
+        "title": "george bush",
+        "price": "$777",
+        "qty": "21" 
+    },
+    {
+        "date": "23/09/2022",
+        "title": "d trump",
+        "price": "$1600",
+        "qty": "400" 
+    },
+    {
+        "date": "12/05/2023",
+        "title": "bill c",
+        "price": "$250",
+        "qty": "50"
+    },
+    {
+        "date": "07/08/2023",
+        "title": "b obama",
+        "price": "$180",
+        "qty": "75"
+    },
+    {
+        "date": "18/09/2022",
+        "title": "ronald r",
+        "price": "$120",
+        "qty": "30"
+    },
+    {
+        "date": "03/04/2023",
+        "title": "george b",
+        "price": "$320",
+        "qty": "90"
+    },
+    {
+        "date": "29/06/2023",
+        "title": "ronald r",
+        "price": "$500",
+        "qty": "25"
+    },
+    {
+        "date": "14/07/2023",
+        "title": "d trump",
+        "price": "$750",
+        "qty": "40"
+    },
+    {
+        "date": "22/08/2023",
+        "title": "b obama",
+        "price": "$90",
+        "qty": "60"
+    },
+    {
+        "date": "11/10/2022",
+        "title": "d trump",
+        "price": "$430",
+        "qty": "55"
+    },
+    {
+        "date": "05/11/2022",
+        "title": "JFK",
+        "price": "$600",
+        "qty": "70"
+    },
+    {
+        "date": "19/12/2022",
+        "title": "bill c",
+        "price": "$280",
+        "qty": "45"
+    },
+    {
+        "date": "14/02/2023",
+        "title": "JFK",
+        "price": "$210",
+        "qty": "80"
+    },
+    {
+        "date": "26/03/2023",
+        "title": "bill c",
+        "price": "$150",
+        "qty": "65"
+    },
+    {
+        "date": "09/01/2023",
+        "title": "ronald r",
+        "price": "$200",
+        "qty": "35"
+    },
+    {
+        "date": "15/04/2023",
+        "title": "ronald r",
+        "price": "$700",
+        "qty": "95"
+    },
+    {
+        "date": "02/09/2022",
+        "title": "d trump",
+        "price": "$110",
+        "qty": "20"
+    },
+    {
+        "date": "10/06/2023",
+        "title": "JFK",
+        "price": "$480",
+        "qty": "50"
+    },
+    {
+        "date": "28/07/2023",
+        "title": "JFK",
+        "price": "$550",
+        "qty": "85"
+    },
+    {
+        "date": "16/11/2022",
+        "title": "b obama",
+        "price": "$340",
+        "qty": "60"
+    },
+    {
+        "date": "21/12/2022",
+        "title": "b obama",
+        "price": "$230",
+        "qty": "40"
+    },
+    {
+        "date": "08/03/2023",
+        "title": "ronald r",
+        "price": "$140",
+        "qty": "70"
+    },
+    {
+        "date": "04/05/2023",
+        "title": "george b",
+        "price": "$190",
+        "qty": "25"
+    },
+    {
+        "date": "01/07/2023",
+        "title": "george bush",
+        "price": "$720",
+        "qty": "75"
+    },
+    {
+        "date": "13/09/2022",
+        "title": "d trump",
+        "price": "$100",
+        "qty": "55"
+    },
+    {
+        "date": "17/10/2022",
+        "title": "b obama",
+        "price": "$410",
+        "qty": "30"
+    },
+    {
+        "date": "06/12/2022",
+        "title": "bill c",
+        "price": "$590",
+        "qty": "65"
+    },
+    {
+        "date": "20/01/2023",
+        "title": "bill c",
+        "price": "$300",
+        "qty": "90"
+    },
+    {
+        "date": "25/02/2023",
+        "title": "ronald r",
+        "price": "$220",
+        "qty": "45"
+    },
+    {
+        "date": "30/03/2023",
+        "title": "JFK",
+        "price": "$160",
+        "qty": "80"
+    },
+    {
+        "date": "27/04/2023",
+        "title": "george bush",
+        "price": "$170",
+        "qty": "35"
+    }
+]
